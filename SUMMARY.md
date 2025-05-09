@@ -4,8 +4,8 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Welcome to Human 2nd Brain](getting-started/publish-your-docs.md)
+* [⚡ Quickstart Guide](getting-started/quickstart.md)
 
 ## Basics
 
