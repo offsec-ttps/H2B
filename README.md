@@ -20,9 +20,37 @@ layout:
 
 # Welcome
 
-Welcome to the GitBook Starter Template! Here you'll get an overview of all the amazing features GitBook offers to help you build beautiful, interactive documentation.
+## 👋 Welcome to Human 2nd Brain
 
-You'll see some of the best parts of GitBook in action — and find help on how you can turn this template into your own.
+### 💡 Introduction
+
+**Human 2nd Brain** is your personal command center—a digital life companion built to help you navigate and optimize every part of your life. Whether you're managing documents, setting career goals, or planning your next move, this platform gives you structure, clarity, and purpose.
+
+### 🚀 Why Choose Us?
+
+* 🧠 **Holistic Life Management**
+* 📁 **Centralized Document Storage**
+* 🎯 **Goal-Oriented Frameworks**
+* 🌐 **Global Community & Support**
+* 👨‍💻 **Accessible, Simple UI for All Ages**
+
+### ✨ Core Modules
+
+| Category                    | Description                                               |
+| --------------------------- | --------------------------------------------------------- |
+| 🪞 Self-Reflection & Growth | Set goals, practice mindfulness, and understand yourself. |
+| 💼 Career & Learning        | Plan your professional journey and grow your skillset.    |
+| 📑 Documents & Records      | Organize your life's paperwork in one place.              |
+| 💰 Income Tracker           | Track all income sources and financial progress.          |
+
+### 🧭 Life Navigation: Step-by-Step
+
+1. **Explore** categories using the sidebar.
+2. **Add** your documents and info.
+3. **Track** progress with built-in dashboards.
+4. **Grow** through guided insights and shared knowledge.
+
+> "This is not just a system. It’s a life companion."
 
 ### Jump right in
 
