@@ -249,3 +249,7 @@
   * [✨ Reflective Prompts & Exercisese](self-reflection-and-growth/reflective-prompts-and-exercisese.md)
   * [🌍 Other Subcategories](self-reflection-and-growth/other-subcategories.md)
 * [Help & Support](help-and-support.md)
+
+## Reference & Framework
+
+* [References for Building Services](reference-and-framework/references-for-building-services.md)
