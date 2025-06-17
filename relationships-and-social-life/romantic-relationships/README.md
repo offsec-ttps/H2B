@@ -84,3 +84,113 @@ Create a world-class, responsive React + Tailwind CSS webpage for the "Romantic 
 ***
 
 Focus only on **frontend** design and user experience, using mock data for now.
+
+
+
+Verify and add the missing one only&#x20;
+
+\===============
+
+You are an expert React developer using Replit AI.
+
+I have already built part of a relationship-focused webpage "romantic" under the "Relationships & Social Life" . Now, I want you to analyze the current page and compare it with the following complete feature specification (see below). Your task is to:
+
+Check which components and sections from the spec already exist on the page.
+
+Only add the missing sections, components, or logic — do not duplicate or overwrite existing elements.
+
+Ensure all newly added components follow the same style and structure:
+
+Use React functional components\
+Style using Tailwind CSS\
+Use Chart.js or Recharts for any charts/graphs\
+Keep the layout responsive and Gen-Z-friendly with emojis, icons, and soft animations\
+Maintain component reusability and consistent naming conventions
+
+Here’s the full spec to compare against:
+
+Goal: Help users nurture love, emotional connection, and communication in their romantic relationships using tools, trackers, and interactive AI support.
+
+Key Components to Include:
+
+Love Index & Compatibility Tracker
+
+Radar chart: Relationship health over time
+
+Bar chart: Partner love language comparison
+
+Tooltips for compatibility strengths/gaps
+
+Relationship Status & Timeline
+
+Scrollable milestone timeline (e.g., first date, anniversary)
+
+Dynamic relationship status tag
+
+Event/photo logging support
+
+Communication Logs & Love Languages
+
+Conversation log form (topic, tone, love language)
+
+Love language reference board with visual tags
+
+Toggle filter: By tone or language
+
+Intimacy & Connection Prompts
+
+"Prompt Me" button for curated romantic actions
+
+Prompt Library (filters: mood/goal)
+
+Mark as “Done” or “Favorite”
+
+Conflict Resolution Tools
+
+Conflict log form with emotional insights
+
+Built-in resolution models (e.g., “I feel” framework)
+
+Post-conflict reflection prompts
+
+Date Night Planner
+
+Idea board with editable location, links
+
+Smart checklist for date planning
+
+Past date gallery (photos/notes)
+
+Shared Responsibilities
+
+Shared task board with assignments
+
+Completion progress tracker for relationship goals
+
+Reminders for joint tasks or finances
+
+Special Dates & Anniversaries Tracker
+
+Romantic calendar with reminders and countdowns
+
+Gift Idea board (tags: budget, occasion)
+
+AI Relationship Assistant
+
+"Talk to AI" widget:
+
+Get communication, date, or conflict advice
+
+Daily relationship prompt
+
+Reflect on emotional logs with AI-powered insights
+
+Design Notes:
+
+Gen-Z aesthetic: Soft, friendly, animated UI with emojis
+
+Responsive on mobile and desktop
+
+All features in React (functional components) + Tailwind CSS
+
+Please analyze the current state of the page, then implement only the missing features from the list above. Use modular code and comment where you’re adding new functionality.
