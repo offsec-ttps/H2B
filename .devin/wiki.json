@@ -1,1 +1,306 @@
-The content has been copied to your clipboard. Please paste it here to complete the file creation.
+{
+  "repo_notes": [
+    {
+      "content": ""
+    }
+  ],
+  "pages": [
+    {
+      "title": "Overview, It's changes Title One",
+      "purpose": "Introduce the Human 2nd Brain (H2B) platform, explaining its purpose as a holistic life management system and providing a high-level overview of its 8 major life domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "System Purpose and Value Proposition",
+      "purpose": "Detail the core value proposition of H2B as a digital life companion, explaining how it centralizes document storage, enables goal-oriented frameworks, and provides community support",
+      "parent": "Overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Life Domains Overview",
+      "purpose": "Provide a comprehensive overview of the 8 major life domains (Health & Wellness, Finance & Assets, Vision & Goals, Relationships, Career & Learning, Lifestyle, Documents, Self Reflection) and how they integrate",
+      "parent": "Overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Target Audience and Use Cases",
+      "purpose": "Describe the diverse user base (students, professionals, families, seniors) and specific use cases for each demographic",
+      "parent": "Overview",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Architecture and Design Principles",
+      "purpose": "Document the foundational architectural principles that govern H2B system design, including the 20 core principles spanning human-centered design, technical excellence, and ethical AI",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Core Architectural Principles",
+      "purpose": "Detail the 20 architectural principles organized into 5 thematic clusters: Core Principles, Development & Quality, Global & Ethical, User Experience, and Continuous Evolution",
+      "parent": "Architecture and Design Principles",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Technical Stack and Infrastructure",
+      "purpose": "Document the technology stack including React.js frontend, Node.js backend, PostgreSQL/MongoDB databases, Kubernetes orchestration, and cloud-native architecture",
+      "parent": "Architecture and Design Principles",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Security, Privacy, and Compliance",
+      "purpose": "Explain security measures including Zero Trust architecture, end-to-end encryption, and compliance with GDPR, CCPA, HIPAA, and other regulations",
+      "parent": "Architecture and Design Principles",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "AI and Intelligence Layer",
+      "purpose": "Document the AI/ML capabilities including personalization, pattern detection, predictive analytics, and ethical AI governance principles",
+      "parent": "Architecture and Design Principles",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Life Domains",
+      "purpose": "Comprehensive documentation of all 8 life domains within the H2B platform and how they interconnect to provide holistic life management",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Finance & Assets Domain",
+      "purpose": "Overview of the Finance & Assets domain, the most complex module with 12+ subsystems covering personal finance, investments, loans, insurance, taxes, and estate planning",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Personal Finance Tools",
+      "purpose": "Document the core personal finance tools including Net Worth Calculator, Budget Planner, and Debt Management with their features, data flows, and visualizations",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Loan and Credit Management",
+      "purpose": "Detail the Loan & Credit Companion system covering personal loans, student loans, mortgages, credit cards, and credit score monitoring with AI-driven insights",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "EMI and Loan Tracking",
+      "purpose": "Document the EMI and Loan Tracker including EMI calculator, repayment schedules, prepayment planner, and missed payment alerts",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Investment and Portfolio Management",
+      "purpose": "Explain investment tracking across stocks, mutual funds, real estate, crypto, retirement accounts, and alternative investments, plus business investment management",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Tax Management",
+      "purpose": "Document tax filing assistance, deduction tracking, tax planning, and AI-driven tax optimization with support for multiple jurisdictions",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Insurance Management",
+      "purpose": "Detail insurance tracking across health, life, property, auto, and disability insurance, including AI-powered gap analysis and risk modeling",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Estate Planning",
+      "purpose": "Document estate planning features including wills and trusts management, beneficiary designations, asset inventory, inheritance distribution, and digital legacy",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Daily Finance and Transactions",
+      "purpose": "Explain daily financial management including bank account aggregation, transaction tracking, bill payments, UPI transactions, and cash flow analysis",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Financial Education and Literacy",
+      "purpose": "Document the Financial Education Hub with gamified learning, risk tolerance assessments, retirement planning tools, and AI-driven personalized learning paths",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Relationships & Social Life Domain",
+      "purpose": "Overview of the Relationships & Social Life domain covering romantic relationships, friendships, family, social events, and personality wellness",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Romantic Relationships Module",
+      "purpose": "Deep dive into the advanced romantic relationships features including Love Index, compatibility tracking, communication logs, intimacy prompts, conflict resolution, date planning, and AI relationship assistant",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Friendships and Social Bonds",
+      "purpose": "Document features for managing friendships, social connections, and maintaining social wellness",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Family and Home Life",
+      "purpose": "Explain tools for managing family relationships, household responsibilities, and family health coordination",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Health & Wellness Domain",
+      "purpose": "Document personal and family health management, health insurance, fitness tracking, and integrations with telemedicine and pharmacy services",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Career & Learning Domain",
+      "purpose": "Detail career planning, skill development, professional journey tracking, and lifelong learning features",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Vision & Goals Domain",
+      "purpose": "Explain goal-setting frameworks, vision boards, daily routines, progress tracking, and the goal orchestration system that connects all life domains",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Documents & Records Domain",
+      "purpose": "Document the centralized document repository, categorization system, secure storage, version control, and special document types (charity, emergency)",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Self Reflection & Growth Domain",
+      "purpose": "Detail mindfulness practices, self-assessment tools, personal growth tracking, and guided reflection features",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "title": "Lifestyle & Environment Domain",
+      "purpose": "Document features for managing living space, environmental preferences, and daily life logistics",
+      "parent": "Life Domains",
+      "page_notes": [
+        {
+          "content": ""
+        }
+      ]
+    }
+  ]
+}
